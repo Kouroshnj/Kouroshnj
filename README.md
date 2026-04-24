@@ -1,5 +1,5 @@
 # 💫 About Me:
-Blockchain & Backend Engineer specializing in Solidity and Node.js.  <br>4+ years building smart contracts, DeFi components, and secure backend systems.  <br>Focused on smart contract security, protocol mechanics, and scalable APIs.  <br>Currently exploring auditing, DeFi architecture, and real-world Web3 infrastructure.
+Blockchain & Backend engineer specializing in Solidity and Node.js.  <br>4+ years building smart contracts, DeFi components, and secure backend systems.  <br>Focused on smart contract security, protocol mechanics, and scalable APIs.  <br>Currently exploring auditing, DeFi architecture, and real-world Web3 infrastructure.
 
 
 ## 🌐 Socials:
